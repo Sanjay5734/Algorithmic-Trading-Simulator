@@ -1,6 +1,6 @@
 # Django Examples
 
-A starter project for Clark's Databases course (CSCI 220). This project includes a web server and database.
+
 
 Follow these steps to get started:
 
