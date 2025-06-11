@@ -45,4 +45,4 @@ Engineered a **scalable Django backend** for managing companies, shares, and fin
 ![Screenshot: Stock Analytics Dashboard](https://github.com/user-attachments/assets/67cb2632-c698-472b-b288-66878918122b)  
 [**Watch Functionality Video**](https://github.com/user-attachments/assets/9e102aa6-2b7e-47b9-895b-03cf2622886c)  
 
-> **Note**: Portfolio section under active development.  
+
